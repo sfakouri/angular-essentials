@@ -1,7 +1,7 @@
 [Archived and won't be updated]
 
 # Angular Essentials
-> A tutorial web app to review basics of Angular.
+> A fast way to review essential features of angular.
 
 If you are new to angular, most probably you know it is easy to forget what you have learnt and you wish you had a simple project to review angular features fast. 
 
