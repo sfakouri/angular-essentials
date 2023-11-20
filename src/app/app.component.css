@@ -1,0 +1,10 @@
+.ver {
+    font-size: 11px;
+    color: #fff;
+}
+.nav-noflex {
+    display: block !important;
+}
+.title {
+    margin-left: 10px;
+}
